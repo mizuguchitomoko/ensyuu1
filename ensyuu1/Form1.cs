@@ -23,7 +23,7 @@ namespace ensyuu1
             {
                 if(i == 5)
                 {
-                    MessageBox.Show(i + "");//実行する処理
+                    MessageBox.Show(i.ToString());//実行する処理
                     MessageBox.Show("ここで半分です");
                 }
                 else
